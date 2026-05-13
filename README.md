@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   &nbsp;
- 
+
 </div>
 
 <br/>
@@ -60,7 +60,6 @@ yash = {
     <td>
       <strong>Intern — KPMG Global Services</strong><br/>
       <code>Bangalore · Jan 2026 – Present</code><br/>
-      <sub>Working on AI-powered solutions in a global professional services environment.</sub>
     </td>
   </tr>
 </table>
@@ -175,10 +174,6 @@ yash = {
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yashdivya5&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=4" width="98%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdivya5&layout=compact&hide_border=true&title_color=C71585&text_color=ffffff&bg_color=1a1a2e" width="50%" />
 </div>
 
 ---
