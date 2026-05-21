@@ -61,7 +61,7 @@ yash = {
     <td width="50px" align="center">🏢</td>
     <td>
       <strong>Intern — KPMG Global Services</strong><br/>
-      <code>Bangalore · 2025 – Present</code><br/>
+      <code>Bangalore · 2026 – Present</code><br/>
       <sub>Working on AI-powered solutions in a global professional services environment.</sub>
     </td>
   </tr>
