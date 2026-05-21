@@ -29,7 +29,9 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   &nbsp;
-
+  <a href="https://kaggle.com/">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
 </div>
 
 <br/>
@@ -44,7 +46,7 @@ yash = {
     "education"  : "B.E. · NIE Mysuru · CGPA 8.68 · 2022–2026",
     "role"       : "Intern @ KPMG Global Services, Bangalore",
     "languages"  : ["Python", "C++", "SQL", "C"],
-    "ml_stack"   : ["PyTorch", "OpenCV", "YOLOv5/v8", "Scikit-learn", "HuggingFace"],
+    "ml_stack"   : ["PyTorch", "TensorFlow", "OpenCV", "YOLOv5/v8", "Scikit-learn", "HuggingFace"],
     "interests"  : ["Computer Vision", "Generative AI", "Multi-Agent Systems"],
     "current"    : "Building intelligent systems that solve real-world problems",
 }
@@ -59,7 +61,8 @@ yash = {
     <td width="50px" align="center">🏢</td>
     <td>
       <strong>Intern — KPMG Global Services</strong><br/>
-      <code>Bangalore · Jan 2026 – Present</code><br/>
+      <code>Bangalore · 2025 – Present</code><br/>
+      <sub>Working on AI-powered solutions in a global professional services environment.</sub>
     </td>
   </tr>
 </table>
@@ -148,6 +151,21 @@ yash = {
 
 
 </div>
+
+---
+
+## 🌍 Open Source Contributions
+
+<table>
+  <tr>
+    <td width="50px" align="center">🤝</td>
+    <td>
+      <strong><a href="https://github.com/ultralytics/notebooks/pull/94">Ultralytics Notebooks — PR #94</a></strong><br/>
+      <code>ultralytics/notebooks</code><br/>
+      <sub>Added a YOLO26 autonomous vehicle object detection notebook covering ADAS-class inference, real-time video detection, YOLO26 vs YOLO11 benchmarking, fine-tuning, and edge export (ONNX / TensorRT / TFLite). Reviewed and approved by <strong>glenn-jocher</strong> (Ultralytics founder).</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
