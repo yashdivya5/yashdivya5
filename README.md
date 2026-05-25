@@ -123,7 +123,7 @@ yash = {
 | &nbsp; | Achievement | When |
 |:------:|:-----------|:----:|
 | 🏅 | **Community Showcase Award** (Highest Votes) · Lyzr Agentathon 2025 | 2026 |
-| 🥇 | **Top 2%** · Kaggle Playground Series S5E4 | 2025 |
+| 🥇 | **Top 2%** · Kaggle Playground Series S5E4 |
 | 🤖 | **Finalist** · Qualcomm VisionX Hackathon — IIT Bombay Techfest | Dec 2024 |
 
 </div>
